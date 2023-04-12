@@ -11,4 +11,10 @@
     margin: 0 auto;
 }
 
-/**/
+/*Header class*/
+.header{
+    width: 100 px;
+    height: 90 px;
+    background-color: #212343;
+}
+
