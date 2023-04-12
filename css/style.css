@@ -14,7 +14,10 @@
 /*Header class*/
 .header{
     width: 100 px;
-    height: 90 px;
+    height: 60 px;
     background-color: #212343;
 }
 
+.header img{
+    margin: 19 px;
+}
