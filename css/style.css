@@ -59,6 +59,7 @@ html,body{
     font-size: 20px;
 }
 
+/*Input container class*/
 .input-container{
     margin-top: 20px;
 }
@@ -75,4 +76,29 @@ html,body{
     width: 344px;
     height: 55px;
     border: 1px solid #ccc;
+}
+
+
+/*Form class warning paragraph*/
+.form p{
+    display: inline-block;
+    width: 100%;
+    color: #BBBB;
+    font-size: 17px;
+    margin: 20px 0;
+}
+
+/*Form class submit button*/
+.form .input-submit-container{
+    text-align: center;
+}
+
+.form input[type=submit]{
+    border: 0;
+    color: white;
+    font-size: 25px;
+    width: 280px;
+    height: 56px;
+    display: inline-block;
+    background-color: #33a6d3;
 }
