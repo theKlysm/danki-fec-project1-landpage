@@ -94,11 +94,19 @@ html,body{
 }
 
 .form input[type=submit]{
-    border: 0;
     color: white;
     font-size: 25px;
     width: 280px;
     height: 56px;
     display: inline-block;
-    background-color: #33a6d3;
+    background-color: #212343;
+    cursor: pointer;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 5px solid #33a6d3;
+}
+
+.form input[type=submit]:hover{
+    background-color: #1a1c35;
 }
