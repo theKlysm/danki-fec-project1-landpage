@@ -7,17 +7,23 @@
 
 /*Context class*/
 .center{
-    width: 1280 px;
+    width: 1280px;
     margin: 0 auto;
 }
 
 /*Header class*/
 .header{
-    width: 100 px;
-    height: 60 px;
+    width: 100%;
+    height: 60px;
     background-color: #212343;
 }
 
 .header img{
-    margin: 19 px;
+    margin: 19px;
+}
+
+.container-banner{
+    width: 100%;
+    height: 557px;
+    background-image: url('../images/header_bg.png');
 }
