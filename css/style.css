@@ -11,6 +11,10 @@ html,body{
     height: 100%;
 }
 
+.clear{
+    clear: both;
+}
+
 /* Context class */
 .center{
     width: 1200px;
@@ -188,4 +192,15 @@ html,body{
 
 .container-single img{
     width: 70px;
+}
+
+.footer{
+    border-top: 2px solid #888888;
+    padding: 20px 0;
+    text-align: center;
+    color: #888;
+}
+
+.footer p{
+    margin-top: 8px;
 }
