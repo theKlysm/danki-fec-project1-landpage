@@ -149,7 +149,7 @@ html,body{
 }
 
 .container-2 p{
-    width: 698px;
+    width: 100%;
     margin: 15px 0;
     display: inline-block;
     text-align: justify;
